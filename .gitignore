@@ -1,0 +1,22 @@
+# Dependências Node.js
+node_modules/
+
+# Variáveis de ambiente (não subir segredos)
+.env
+
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
